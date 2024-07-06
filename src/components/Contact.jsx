@@ -8,12 +8,12 @@ const Contact = () => {
         <>
             <Navigation></Navigation>
 
-            <div className="max-w-lg mx-auto mt-8">
+            <div className="max-w-lg mx-auto mt-8 px-4">
                 <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
                 <div className="bg-white p-6 shadow-md rounded-md">
                     <div className="mb-4">
                         <h3 className="text-xl font-bold mb-2">Our Address</h3>
-                        <p>Kadaikambatty, kannerimukku, kotagiri-643217</p>
+                        <p>Kadaikambatty Village, kannerimukku, kotagiri - 643217, Tamilnadu</p>
                     </div>
                     <div className="mb-4">
                         <h3 className="text-xl font-bold mb-2">Phone Number</h3>

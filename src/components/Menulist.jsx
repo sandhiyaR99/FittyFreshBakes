@@ -27,6 +27,7 @@ const Menulist = () => {
 
     const ipcakeupdate = (e) => {
         setIp(e.target.value);
+        searchcake()
     };
 
     const searchcake = () => {
