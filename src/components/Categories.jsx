@@ -14,7 +14,7 @@ const Categories = () => {
             className="w-full h-auto rounded-lg cursor-pointer transform transition duration-300 group-hover:scale-105"
           />
           <div className="absolute inset-0 flex justify-center items-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-white bg-opacity-50 rounded-lg">
-            <span className="text-lg font-bold text-pink-700">Customised Cakes</span>
+            <span className="text-lg font-bold text-pink-700">Custom Cakes</span>
           </div>
         </div>
         <div className="relative w-1/3 group">
